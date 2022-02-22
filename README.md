@@ -1,4 +1,4 @@
-# GitWSTest
+# Git Workshop Test
 Bu belge **Git** eğitimi için oluşturulmuştur.
 
 Eğitime katılanlar.
@@ -11,3 +11,5 @@ Eğitime katılanlar.
 ```PowerShell
 Get-content -Path c:\temp\hedehodo.txt
 ```
+
+> Note: ***Fir was here!***
