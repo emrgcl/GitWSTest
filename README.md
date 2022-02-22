@@ -19,3 +19,6 @@ Get-content -Path c:\temp\hedehodo.txt
 hocam hareket etmekte bereket vardır. Kalori yaktırır, ilerlemeyi sağlar!
 
 ### Fazla hareket de adamı hasta eder
+
+
+> Note: Armağan hadi artık hep ben çalışıyorum
