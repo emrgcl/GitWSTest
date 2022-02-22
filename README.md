@@ -13,3 +13,7 @@ Get-content -Path c:\temp\hedehodo.txt
 ```
 
 > Note: ***Fir was here!***
+
+
+### Harektte bereket
+hocam hareket etmekte bereket vardır. Kalori yaktırır, ilerlemeyi sağlar!
