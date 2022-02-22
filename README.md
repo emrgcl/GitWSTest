@@ -17,3 +17,5 @@ Get-content -Path c:\temp\hedehodo.txt
 
 ### Harektte bereket
 hocam hareket etmekte bereket vardır. Kalori yaktırır, ilerlemeyi sağlar!
+
+### Fazla hareket de adamı hasta eder
